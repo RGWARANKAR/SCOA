@@ -1,0 +1,3 @@
+# SCOA
+fuzzy logic
+sort
